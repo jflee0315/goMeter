@@ -1,0 +1,12 @@
+{
+    "Request" : {
+        "Url" : "https://golang.org/",
+        "Method" : "GET",
+        "ContentType" : "",
+        "Body" : ""
+    },
+    "Concurrent" : {
+        "threads" : 2,
+        "times" : 2
+    }
+}
